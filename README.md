@@ -63,4 +63,6 @@ Tools for removing, pruning your social media services posts and followers
 - [Bluesky.ms](https://bluesky.ms) - A directory of people around the Microsoft community on Bluesky including Microsoft FTEs, MVPs, and others by [Merill](https://bsky.app/profile/merill.net)
 
 ---------
+Disclaimer:  I am not associated with any of these tools, posts, or sites and use of them is at your own risk.  Be sure to follow good security practicies with your account credentials and app passwords (until we get OAUTH!).   **Please enable MFA on your Bluesky account which you can find in settings.**
+
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
