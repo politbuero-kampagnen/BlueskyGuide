@@ -9,6 +9,8 @@
   * [Analytics](#analytics)
   * [Custom Feeds](#custom-feeds-1)
     + [Useful Custom Feeds](#useful-custom-feeds)
+  * [Starter Packs](#starter-packs)
+    + [Useful Starter Packs](#useful-starter-packs)
   * [Content Importers](#content-importers)
   * [Labelers](#labelers)
 - [Clients](#clients)
@@ -60,6 +62,12 @@ Tools for creating and curating custom feeds that you can share on your Bluesky 
 - [Bluesky Feed Creator](https://blueskyfeedcreator.com) - Allows you to create your custom feeds to capture posts and publish to your profile.
 ### Useful Custom Feeds
 - [📌 to Bookmark](https://bsky.app/profile/did:plc:q6gjnaw2blty4crticxkmujt/feed/my-pins) - Bluesky currently doesn't have native Bookmarks, but you can reply to a post with a 📌 (pin) emoji, and it will show up in this custom feed for you go back to later
+
+## Starter Packs
+When you first join Bluesky it can feel empty, but that is because you may not have discovered content to follow.  The Starter Packs feature allows people to curate and publish collections of accounts around a specific topic or theme.  You can choose to view the list to follow all of them or follow some of them, and start building your timeline.
+## Useful Starter Packs
+ - [Skypacks Collections](https://bsky.app/profile/skypacks.bsky.social) - Skypacks publishes useful starter packs for people to discovery from all sorts of topics.
+
 
 ## Content Importers
 Tools for importing content from other platforms to your Bluesky timeline
