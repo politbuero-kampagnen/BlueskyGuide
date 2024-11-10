@@ -32,7 +32,7 @@ Collection of Tips &amp; Tools for collaborating on [Bluesky](https://bsky.app) 
 ## Custom Domains
 Bluesky allows you to set your owned custom domain name as your handle/username, and is a great way to demonstrate your account is associated with your public web presence.
 - [How to ser your domain as your handle](https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial) - A guide on using a custom domain as your Bluesky handle
-- [Purchase Domain for Bluesky account]([https://account.bsky.app/](https://bsky.social/about/blog/7-05-2023-namecheap)) - If you don't already own your own domain, you can purchase one straight through Bluesky and Namecheap
+- [Purchase Domain for Bluesky account](https://bsky.social/about/blog/7-05-2023-namecheap) - If you don't already own your own domain, you can purchase one straight through Bluesky and Namecheap
 ## Content Discovery
 When you first join, and are not following people Bluesky can be a lonely space.   Luckily there are plenty of tools and services for discovering accounts and content to follow to get engaged.
 
