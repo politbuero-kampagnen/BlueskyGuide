@@ -1,5 +1,6 @@
 - [Bluesky Guide](#bluesky-guide)
 - [Tips](#tipss)
+  * [Account Security](#account-security)
   * [Custom Domains](#custom-domains)
 - [Tools](#tools)
   * [Analytics](#analytics)
@@ -16,8 +17,17 @@
 Collection of Tips &amp; Tools for collaborating on [Bluesky](https://bsky.app) shared by [Jeftek.com](https://bsky.app/profile/jeftek.com)
 
 # Tips
+## Account Security
+- **Use a Unique Long Password** -  Be sure to use a unique and long password such as a pass phrase for your account.
+  * Think "My Dog has 2 Black Spots On their tail" is better than "BlueWinter24!"
+- **Enable MFA for login** -  Currently Bluesky only offers email (You do require MFA on your email right?) based secondary verification when signining in with your main password, which can be enabled in your account settings.  (I hope to see Passkey support once they enable OAUTH.)
+  * Settings > Two-factor authentication >  Enable Require email code to log into your account
+- **Use Unique App Passwords for 3rd party apps** - When signing into 3rd party apps and services, you can generate an App Password for a specific app.
+  * Settings > Advanced > App Passwords
 ## Custom Domains
+Bluesky allows you to set your owned custom domain name as your handle/username, and is a great way to demonstrate your account is associated with your public web presence.
 - [How to ser your domain as your handle](https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial) - A guide on using a custom domain as your Bluesky handle
+- [Purchase Domain for Bluesky account]([https://account.bsky.app/](https://bsky.social/about/blog/7-05-2023-namecheap)) - If you don't already own your own domain, you can purchase one straight through Bluesky and Namecheap
 
 # Tools
 A collection of useful tools for extending the collaboration experience on Bluesky
@@ -51,6 +61,10 @@ Alternative clients for engaging on the Bluesky platform
 
 ## IOS/IpadOS
 - [Skeets App](https://www.skeetsapp.com) - Mobile Bluesky client from [SkeetsApp.com](https://bsky.app/profile/skeetsapp.com)
+- [Graysky](https://graysky.app/) - A mobile client for engaging on Bluesky for IOS and Android
+
+## Android
+- [Graysky](https://graysky.app/) - A mobile client for engaging on Bluesky for IOS and Android
 
 # Social Media Cleanup
 Tools for removing, pruning your social media services posts and followers
