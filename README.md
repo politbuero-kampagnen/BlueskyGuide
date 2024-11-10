@@ -1,15 +1,20 @@
 - [Bluesky Guide](#bluesky-guide)
-- [Tips](#tipss)
+- [Tips](#tips)
   * [Account Security](#account-security)
   * [Custom Domains](#custom-domains)
+  * [Content Discovery](#content-discovery)
+    + [Starter Packs](#starter-packs)
+    + [Custom Feeds](#custom-feeds)
 - [Tools](#tools)
   * [Analytics](#analytics)
-  * [Custom Feeds](#custom-feeds)
+  * [Custom Feeds](#custom-feeds-1)
+    + [Useful Custom Feeds](#useful-custom-feeds)
   * [Content Importers](#content-importers)
   * [Labelers](#labelers)
 - [Clients](#clients)
   * [Web](#web)
   * [IOS/IpadOS](#ios-ipados)
+  * [Android](#android)
 - [Social Media Cleanup](#social-media-cleanup)
 - [Other sites related to Bluesky](#other-sites-related-to-bluesky)
 
@@ -28,6 +33,17 @@ Collection of Tips &amp; Tools for collaborating on [Bluesky](https://bsky.app) 
 Bluesky allows you to set your owned custom domain name as your handle/username, and is a great way to demonstrate your account is associated with your public web presence.
 - [How to ser your domain as your handle](https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial) - A guide on using a custom domain as your Bluesky handle
 - [Purchase Domain for Bluesky account]([https://account.bsky.app/](https://bsky.social/about/blog/7-05-2023-namecheap)) - If you don't already own your own domain, you can purchase one straight through Bluesky and Namecheap
+## Content Discovery
+When you first join, and are not following people Bluesky can be a lonely space.   Luckily there are plenty of tools and services for discovering accounts and content to follow to get engaged.
+
+### Starter Packs
+One of the best feastures they added were Starter Packs, which are curated collections of accounts you can review to follow or follow them all at once. You can find these all over Bluesky, but take a look at a persons profile under "Starter Packs" and see if they have published one of their own you can follow on a topic.
+- You can see the starter packs I publish on my profile here [Jeftek.com/](https://bsky.app/profile/jeftek.com)
+
+### Custom Feeds
+You see content based on who you follow, but you also can subscribe to custom feeds that people create on a whole variety of topics.   You can then choose to pin these to your home feed and switch between them like channels.  This allows you to choose not to follow accounts, but subscribe to feeds which may include those accounts so you can switch your viewing almost like channels.
+Like Starter Packs, people can choose to create custom feeds they publish on their Bluesky profile, so if you find someone interesting you follow check out their profile and see if they are publishing any.  
+- You can see the custom feeds I publish on my profile here [Jeftek.com/](https://bsky.app/profile/jeftek.com)
 
 # Tools
 A collection of useful tools for extending the collaboration experience on Bluesky
@@ -42,6 +58,8 @@ Tools to give you insights into activity and engagement on Bluesky
 ## Custom Feeds
 Tools for creating and curating custom feeds that you can share on your Bluesky profile
 - [Bluesky Feed Creator](https://blueskyfeedcreator.com) - Allows you to create your custom feeds to capture posts and publish to your profile.
+### Useful Custom Feeds
+- [📌 to Bookmark](https://bsky.app/profile/did:plc:q6gjnaw2blty4crticxkmujt/feed/my-pins) - Bluesky currently doesn't have native Bookmarks, but you can reply to a post with a 📌 (pin) emoji, and it will show up in this custom feed for you go back to later
 
 ## Content Importers
 Tools for importing content from other platforms to your Bluesky timeline
