@@ -25,6 +25,8 @@
 # Bluesky Guide
 Collection of Tips &amp; Tools for collaborating on [Bluesky](https://bsky.app) shared by [Jeftek.com](https://bsky.app/profile/jeftek.com)
 
+**Shortlink:** [https://teklink.io/BlueskyGuide](https://teklink.io/BlueskyGuide) - Easier to share!
+
 # Tips
 ## Account Security
 - **Use a Unique Long Password** -  Be sure to use a unique and long password such as a pass phrase for your account.
