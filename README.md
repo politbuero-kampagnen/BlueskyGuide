@@ -46,6 +46,10 @@ Bluesky allows you to set your owned custom domain name as your handle/username,
 ## Content Discovery
 When you first join, and are not following people Bluesky can be a lonely space.   Luckily there are plenty of tools and services for discovering accounts and content to follow to get engaged.
 
+## Safety
+### Posts on Bluesky Safety
+- [A great list tips on blocking and moderation from @francesmeh.reviews](https://bsky.app/profile/francesmeh.reviews/post/3lamkrhv6k22o)
+
 ### Starter Packs
 One of the best feastures they added were Starter Packs, which are curated collections of accounts you can review to follow or follow them all at once. You can find these all over Bluesky, but take a look at a persons profile under "Starter Packs" and see if they have published one of their own you can follow on a topic.
 - You can see the starter packs I publish on my profile here [Jeftek.com/](https://bsky.app/profile/jeftek.com)
