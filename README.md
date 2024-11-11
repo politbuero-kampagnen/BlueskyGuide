@@ -50,6 +50,8 @@ Like Starter Packs, people can choose to create custom feeds they publish on the
 # Tools
 A collection of useful tools for extending the collaboration experience on Bluesky
 
+You can find many of these also on the official Bluesky docs in their showcase of projects built on the Bluesky API at [Bluesky Showcase](docs.bsky.app/showcase)
+
 ## Analytics
 Tools to give you insights into activity and engagement on Bluesky
 
