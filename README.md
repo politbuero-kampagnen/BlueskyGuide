@@ -77,7 +77,11 @@ Tools to give you insights into activity and engagement on Bluesky
   * See what lists/feeds include the profile
   * See changes in the account over time 
 - [Bluesky Atmosphere Stats](https://jyc.dev/at) - Look at analytics for a specific profile such as likes, posts, reposts and insights about engagement behavior
-
+- 
+### Network Visualizers
+Tools that create visuals of the relationships across the Bluesky network
+- [Aurora](https://aurora.ndimensional.xyz/)
+- 
 ## Custom Feeds
 Tools for creating and curating custom feeds that you can share on your Bluesky profile
 - [Bluesky Feed Creator](https://blueskyfeedcreator.com) - Allows you to create your custom feeds to capture posts and publish to your profile.
