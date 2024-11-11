@@ -55,6 +55,10 @@ You see content based on who you follow, but you also can subscribe to custom fe
 Like Starter Packs, people can choose to create custom feeds they publish on their Bluesky profile, so if you find someone interesting you follow check out their profile and see if they are publishing any.  
 - You can see the custom feeds I publish on my profile here [Jeftek.com/](https://bsky.app/profile/jeftek.com)
 
+## Content Optimization
+Your timeline is initially filled with who you follow, but you don't have to follow everyone to see their content.  You may choose to limit who follow, but instead add them to your personal lists that you can switch to to see posters in that lists topic.  You can easily pin lists to your home page and switch between them for different feeds or channels of related content. Combining this with public feeds, you can keep your main following optimized and have different channels to swap to from your main timeline view.  
+- A good example is choosing not follow News sources, but instead add them to a custom list or follow a public feed that includes them so you only view the content when you switch to it.
+
 # Tools
 A collection of useful tools for extending the collaboration experience on Bluesky
 
