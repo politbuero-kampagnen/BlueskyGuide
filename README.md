@@ -9,8 +9,8 @@
   * [Analytics](#analytics)
   * [Custom Feeds](#custom-feeds-1)
     + [Useful Custom Feeds](#useful-custom-feeds)
-  * [Starter Packs](#starter-packs)
-    + [Useful Starter Packs](#useful-starter-packs)
+  * [Starter Packs](#starter-packs-1)
+  * [Useful Starter Packs](#useful-starter-packs)
   * [Content Importers](#content-importers)
   * [Labelers](#labelers)
 - [Clients](#clients)
@@ -19,6 +19,8 @@
   * [Android](#android)
 - [Social Media Cleanup](#social-media-cleanup)
 - [Other sites related to Bluesky](#other-sites-related-to-bluesky)
+  * [Directories](#directories)
+  * [Discord Servers](#discord-servers)
 
 # Bluesky Guide
 Collection of Tips &amp; Tools for collaborating on [Bluesky](https://bsky.app) shared by [Jeftek.com](https://bsky.app/profile/jeftek.com)
@@ -102,8 +104,16 @@ Tools for removing, pruning your social media services posts and followers
 
 # Other sites related to Bluesky
 
+## Directories
 - [Bluesky Directory](https://blueskydirectory.com) - A collection of profiles, applications and tools related to Bluesky
 - [Bluesky.ms](https://bluesky.ms) - A directory of people around the Microsoft community on Bluesky including Microsoft FTEs, MVPs, and others by [Merill](https://bsky.app/profile/merill.net)
+
+## Discord Servers
+- [Bluesky API Touchers](https://discord.gg/FS9U8A7F)
+- [Bluesky Community Services](https://discord.gg/tYuDvuzbVA)
+
+
+
 
 ---------
 Disclaimer:  I am not associated with any of these tools, posts, or sites and use of them is at your own risk.  Be sure to follow good security practicies with your account credentials and app passwords (until we get OAUTH!).   **Please enable MFA on your Bluesky account which you can find in settings.**
