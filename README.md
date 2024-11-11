@@ -69,6 +69,9 @@ Tools to give you insights into activity and engagement on Bluesky
 
 - [Blue View](https://blueview.app) - Used to track analytics about a Bluesky profile such as followers, engagement, etc.
 - [Clearsky](https://clearsky.app) - View the activity on Bluesky, and specific profiles to see what lists, blocks, and history of a profile
+  * See who blocks a profile
+  * See what lists/feeds include the profile
+  * See changes in the account over time 
 - [Bluesky Atmosphere Stats](https://jyc.dev/at) - Look at analytics for a specific profile such as likes, posts, reposts and insights about engagement behavior
 
 ## Custom Feeds
