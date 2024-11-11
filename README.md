@@ -1,4 +1,3 @@
-- [Bluesky Guide](#bluesky-guide)
 - [Tips](#tips)
   * [Account Security](#account-security)
   * [Custom Domains](#custom-domains)
@@ -17,11 +16,16 @@
   * [Web](#web)
   * [IOS/IpadOS](#ios-ipados)
   * [Android](#android)
+- [Integration with other social media services](#integration-with-other-social-media-services)
+  * [Service Bridges](#service-bridges)
+  * [Cross-Posting Tools](#cross-posting-tools)
+    + [Publishing Tools](#publishing-tools)
+    + [Aggregation Tools](#aggregation-tools)
 - [Social Media Cleanup](#social-media-cleanup)
 - [Other sites related to Bluesky](#other-sites-related-to-bluesky)
   * [Directories](#directories)
   * [Discord Servers](#discord-servers)
-
+    
 # Bluesky Guide
 Collection of Tips &amp; Tools for collaborating on [Bluesky](https://bsky.app) shared by [Jeftek.com](https://bsky.app/profile/jeftek.com)
 
@@ -80,6 +84,7 @@ Tools for importing content from other platforms to your Bluesky timeline
 
 - [Porto](https://chromewebstore.google.com/detail/porto-port-your-tweets-to/ckilhjdflnaakopknngigiggfpnjaaop?authuser=2&hl=en) - A Chrome extension build by [Ankit Bhandari](https://bsky.app/profile/anku.bsky.social) to use your X Profile export to import into your Bluesky timeline.
 - [Blueark App](https://blueark.app/) - Service to import your Tweet/X exports to be imported to Bluesky timeline
+- [Sky Follower Bridge](https://chromewebstore.google.com/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome Extension to review your X followers and add them on Bluesky if they exist
   
 ## Labelers
 A collection of custom labelers that enabling labeling posts and profiles which may allow you to hide or augment for visibility
@@ -98,6 +103,26 @@ Alternative clients for engaging on the Bluesky platform
 
 ## Android
 - [Graysky](https://graysky.app/) - A mobile client for engaging on Bluesky for IOS and Android
+
+
+# Integration with other social media services
+
+## Service Bridges
+These tools allow you to bridge networks together so posts flow from one to the other allowing users to post in 1 eco system and have the content appear in others
+- [Bridgy Fed](https://fed.brid.gy/) - Bridges the fediverse and Bluesky
+
+## Cross-Posting Tools
+These are a collection of tools that exist to allow people to post the same content across multiple services
+
+### Publishing Tools
+These allow you to post content and monitor analytics across social media networks
+- [Buffer](https://buffer.com) - Allows you to post content to multiple social media services at once, monitor and schedule posts
+- [Croissant](https://apps.apple.com/us/app/croissant-cross-posting/id6670288979) - IOS app that allows you to post to Bluesky, Mastodon, and Threads at the same time
+- [fedica](https://fedica.com/) - Social Media publishing and analytics platform for cross-posting across networks
+
+### Aggregation Tools
+- [OpenVibe](https://apps.apple.com/us/app/openvibe-mastodon-bluesky/id1666230916) - IOS App to post and consume feeds across Bluesky, Mastodon, and Nostr social media networks in one mobile interface  
+
 
 # Social Media Cleanup
 Tools for removing, pruning your social media services posts and followers
