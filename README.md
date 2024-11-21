@@ -66,7 +66,7 @@ Your timeline is initially filled with who you follow, but you don't have to fol
 # Tools
 A collection of useful tools for extending the collaboration experience on Bluesky
 
-You can find many of these also on the official Bluesky docs in their showcase of projects built on the Bluesky API at [Bluesky Showcase](docs.bsky.app/showcase)
+You can find many of these also on the official Bluesky docs in their showcase of projects built on the Bluesky API at [Bluesky Showcase](https://docs.bsky.app/showcase)
 
 ## Analytics
 Tools to give you insights into activity and engagement on Bluesky
